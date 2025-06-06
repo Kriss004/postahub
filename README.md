@@ -1,16 +1,44 @@
-# postahub
+# 📱 PostaHub
 
-A new Flutter project.
+**PostaHub** is a campus companion app designed for students of **Multimedia University of Kenya (MMU)**. It provides a centralized platform for accessing essential campus services, schedules, announcements, and more — all from your phone.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features (Planned)
+- 🧾 Class Timetable & Notifications  
+- 🗞️ Campus News & Announcements  
+- 🎒 Lost & Found  
+- 🥘 Cafeteria Menu  
+- 📅 Events & Calendar  
+- 📍 Campus Map & Navigation  
+- 🧑🏾‍🎓 Student Profiles & Auth  
+- 🔔 Push Notifications  
+- 📦 Offline Access (for key content)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tech Stack
+- **Flutter** – Cross-platform mobile development  
+- **Firebase** – Authentication, Firestore, Cloud Functions  
+- **Dart** – Programming language  
+- **GitHub Actions** *(planned)* – CI/CD automation  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio or VS Code
+- Firebase CLI *(optional, for backend)*
+
+### Setup
+
+```bash
+git clone https://github.com/Kriss004/postahub.git
+cd postahub
+flutter pub get
+flutter run
+
+🧑🏾‍💻 Contributing
+Contributions are welcome! Reach out or fork the repo to suggest new ideas or submit fixes.
