@@ -39,6 +39,7 @@ git clone https://github.com/Kriss004/postahub.git
 cd postahub
 flutter pub get
 flutter run
+```
 
 🧑🏾‍💻 Contributing
 Contributions are welcome! Reach out or fork the repo to suggest new ideas or submit fixes.
